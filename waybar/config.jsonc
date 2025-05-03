@@ -66,7 +66,7 @@
 		"active-only": false,
 		"on-click": "activate",
 		"persistent-workspaces": {
-			"*": 5,
+			"*": 6,
 		}
 	},
 
