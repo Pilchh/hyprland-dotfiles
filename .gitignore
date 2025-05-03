@@ -1,6 +1,6 @@
 *
 !.gitignore
-!hypr/
-!waybar/
-!rofi/
-!spicetify/
+!hypr/**
+!waybar/**
+!rofi/**
+!spicetify/**
